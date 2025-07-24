@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 2nd-year **CS student at FAST-NU Karachi**
+- 🎓 3rd-year **CS student at FAST-NU Karachi**
 - 🤖 Building optimized ML models with **Optuna**, **XGBoost**, and **Pipelines**
 - 💡 Passionate about **C++**, **Machine Learning**, **AI**, and **Game Development**
 - 🎮 Built multiple 2D games using **SFML**, **ralib**, and **C with threads**
