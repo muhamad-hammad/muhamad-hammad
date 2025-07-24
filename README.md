@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hammad</h1>
-<h3 align="center">CS Student | Future Game Dev | ML Enthusiast | Food Cart Founder 🍜</h3>
+<h3 align="center">CS Student | Future Game Dev | ML & GenAI Enthusiast</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
 - 🎓 2nd-year **CS student at FAST-NU Karachi**
-- 💡 Passionate about **C++**, **Machine Learning**, and **Game Development**
-- 🎮 Made **Meteor Mash**, a 2D game in SFML
-- 🤖 Building cool ML models with **Optuna**, **XGBoost**, **Pipelines**
-- 🍝 Started a food cart: **DhoopMein Chowmein**
-- 📸 Sharing 🇵🇰 food & culture on Instagram
-- 🏀 University basketball player (🥈 2nd place in tournament!)
+- 🤖 Building optimized ML models with **Optuna**, **XGBoost**, and **Pipelines**
+- 💡 Passionate about **C++**, **Machine Learning**, **AI**, and **Game Development**
+- 🎮 Built multiple 2D games using **SFML**, **ralib**, and **C with threads**
 
 ---
 
@@ -24,6 +21,8 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-206095?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-003A64?style=flat)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC4E25?style=flat)
+![Optuna](https://img.shields.io/badge/Optuna-3498DB?style=flat)
 ![SFML](https://img.shields.io/badge/SFML-074472?style=flat&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS--Code-007ACC?style=flat&logo=visual-studio-code)
@@ -32,21 +31,23 @@
 
 ### 🧠 Currently Learning
 
-- 📊 **Matplotlib** and **Seaborn** for visualization  
-- 🧠 ML Projects using **sklearn**, **XGBoost**, **Random Forest**, etc.  
-- 🎯 Optimizing models with **Optuna**  
-- 🎮 Advanced C++ and Game Engines  
+- 🧠 Advanced **Machine Learning**, **AI**, and **Generative AI**
 
 ---
 
-### 📌 Featured Projects
+### 🎮 Game Dev Projects
 
-- 🎮 [Meteor Mash](#) — C++ SFML Game  
-- 🧠 [ML Model Optimization](#) — Pipelines + Optuna + Feature Selection  
-- 🧾 [Student Service Management System](#) — Full project in C++  
-- 🧮 [GPA Calculator by Department](#) — C++ menu-driven project  
+- 🪐 [Meteor Mash](#) — A 2D game built with **SFML** in **C++**  
+- 🚀 [ThreadWars](#) — A 2D space game using **ralib** and **C** with **threads and synchronization**
 
-> *(Add your actual repo links when available)*
+---
+
+### 🧠 ML & AI Projects
+
+- 📈 [Students Performance Predictor](#) — Pipelines + Optuna
+- 🧾 [SDiabetes Pridictor](#)  Optuna + SVC + Gradien Boosing
+
+> *(Add real repo links when available)*
 
 ---
 
