@@ -52,7 +52,6 @@
 | 🎨 **LIGMA — Collaborative AI Canvas** | WebSockets · Yjs CRDT · Gemini API · Render | Real-time multi-user brainstorming canvas with live AI assistance |
 
 ---
-
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -60,7 +59,6 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamad-hammad&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ### 🌐 Connect
