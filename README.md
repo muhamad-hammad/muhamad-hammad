@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Muhammad Hammad</h1>
-<h3 align="center">Agentic AI Developer · LLM Systems · Backend Infrastructure</h3>
+<h3 align="center">Agentic AI Development Engineer</h3>
 <p align="center">
   <em>Building intelligent, multi-agent systems — from RAG pipelines to production-grade LLM applications</em>
 </p>
@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 6th-sem **CS student @ FAST-NUCES Karachi**
+- 🎓 Final Year **CS student @ FAST-NUCES Karachi**
 - 🤖 Building **Agentic AI systems** with LangChain, LangGraph, RAG, and FAISS
 - ☁️ Deploying real apps with **FastAPI · Docker · AWS EC2/S3 · GitHub Actions CI/CD**
 - 🌐 Portfolio: [muhammadhammad-fast.netlify.app](https://muhammadhammad-fast.netlify.app/)
